@@ -31,6 +31,7 @@ main::after{
   bottom: 1.25rem;
   border-width: .5rem;
   border-radius: 1%;
+  z-index: -1;
 }
 main::before {
     content: "";
